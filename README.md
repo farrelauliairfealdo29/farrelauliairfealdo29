@@ -1,7 +1,7 @@
 ### :rocket: About Me :
 
 <p align="center">
-  <img src="https://i.ibb.co.com/7tjYXQc/3f7a1f1beaa402b09bb3cdcfd4545a3e.jpg" />
+  <img src="https://i.ibb.co.com/NtBxrm3/3f7a1f1beaa402b09bb3cdcfd4545a3e.jpg"/>
 </p>
 
 - 👋🏻 Hi, I’m Farrel Aulia Irfealdo
