@@ -37,7 +37,9 @@
 
 <details>
 <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
 ![](https://github-profile-trophy.vercel.app/?username=farrelauliairfealdo29&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 </details>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=farrelauliairfealdo29&icon=10&color=0)](https://visitcount.itsvg.in)
