@@ -8,24 +8,17 @@
 - 👨🏻‍🦱 19 Years Old
 - 🇮🇩 Currently Living In Indonesia
 
----
-
-### :rocket: How To Reach Me :
-<p align="center">
-<a href="https://youtube.com/@Tenka-MD"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@Tenka-MD" /><br>
-<a href="https://whatsapp.com/channel/0029VajQWVvAojYsI2Fhht1O"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VajQWVvAojYsI2Fhht1O" /><br>
-<a href="https://t.me/farrelauliairfealdo"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
-<a href="https://chat.whatsapp.com/F7br3RbvM6J7b2BYkwJEe3"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://www.instagram.com/farrelauliairfealdo_?igsh=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
-</p>
-
----
+### :rocket: Socials :
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/farelelite) 
+[![Instagram](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+6287793871423?text=hallo%20bang)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farrelauliairfealdo_)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/farrelauliairfealdo)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@farrel.aulia.irfealdo)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Tenka-MD) 
 
 ### :rocket: Donate Me :
 
 - [`Qris`](https://i.ibb.co.com/DYDy06c/IMG-20240703-WA0021.jpg)
-
----
 
 ### :rocket: My Stats :
 <p align="center"><a href="https://github.com/farrelauliairfealdo29/followers"><img title="Followers" src="https://img.shields.io/github/followers/farrelauliairfealdo29?color=red&style=flat-square"></a></p>
