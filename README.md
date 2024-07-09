@@ -21,17 +21,14 @@
 ---
 
 ### :rocket: Donate Me :
-
 <a href="https://saweria.co/FarrelAuliaIrfealdo" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Farrel Aulia Irfealdo" height="41" width="174"></a>
 
 ---
 
 ### :rocket: My Stats :
-<p align="center"><a href="https://github.com/farrelauliairfealdo29/followers"><img title="Followers" src="https://img.shields.io/github/followers/farrelauliairfealdo29?color=red&style=flat-square"></a></p>
-<p align="center"><a href="https://komarev.com/ghpvc/?username=farrelauliairfealdo29&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=farrelauliairfealdo&color=green&style=flat-square&label=Profile+View"></a>
-</p>
-<p align="center"><a href="https://github.com/farrelauliairfealdo29"><img src="https://github-readme-stats.vercel.app/api?username=farrelauliairfealdo&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/farrelauliairfealdo29"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrelauliairfealdo29&theme=radical&layout=compact"></a></p>
+![](https://github-readme-stats.vercel.app/api?username=farrelauliairfealdo29&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=farrelauliairfealdo29&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=farrelauliairfealdo29&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -41,7 +38,7 @@
 ---
 
 <details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+<summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=farrelauliairfealdo29)
 
