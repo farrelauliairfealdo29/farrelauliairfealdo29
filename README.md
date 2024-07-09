@@ -9,7 +9,7 @@
 
 ---
 
-### :rocket: Socials :
+## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/farelelite) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farrelauliairfealdo_)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/farrelauliairfealdo)
@@ -18,24 +18,24 @@
 
 ---
 
-### :rocket: Donate Me :
+### :rocket: Donate Me:
 <a href="https://saweria.co/FarrelAuliaIrfealdo" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Farrel Aulia Irfealdo" height="41" width="174"></a>
 
 ---
 
-### :rocket: My Stats :
+# 💻 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=farrelauliairfealdo29&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=farrelauliairfealdo29&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=farrelauliairfealdo29&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-### :rocket: Repo Stats : 
+### :rocket: Repo Stats: 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=farrelauliairfealdo29&repo=neoxr-bot&theme=radical)
 
 ---
 
-### :rocket: GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=farrelauliairfealdo29&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
