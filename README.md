@@ -28,22 +28,22 @@
 ---
 
 ### :rocket: My Stats :
-<p align="center"><a href="https://github.com/farrelauliairfealdo/followers"><img title="Followers" src="https://img.shields.io/github/followers/farrelauliairfealdo?color=red&style=flat-square"></a></p>
-<p align="center"><a href="https://komarev.com/ghpvc/?username=farrelauliairfealdo&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=farrelauliairfealdo&color=green&style=flat-square&label=Profile+View"></a>
+<p align="center"><a href="https://github.com/farrelauliairfealdo29/followers"><img title="Followers" src="https://img.shields.io/github/followers/farrelauliairfealdo29?color=red&style=flat-square"></a></p>
+<p align="center"><a href="https://komarev.com/ghpvc/?username=farrelauliairfealdo29&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=farrelauliairfealdo&color=green&style=flat-square&label=Profile+View"></a>
 </p>
-<p align="center"><a href="https://github.com/farrelauliairfealdo"><img src="https://github-readme-stats.vercel.app/api?username=farrelauliairfealdo&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/farrelauliairfealdo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrelauliairfealdo&theme=radical&layout=compact"></a></p>
+<p align="center"><a href="https://github.com/farrelauliairfealdo29"><img src="https://github-readme-stats.vercel.app/api?username=farrelauliairfealdo&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/farrelauliairfealdo29"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrelauliairfealdo29&theme=radical&layout=compact"></a></p>
 
 ---
 
 ### :rocket: Repo Stats : 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=farrelauliairfealdo&repo=neoxr-bot&theme=radical)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=farrelauliairfealdo29&repo=neoxr-bot&theme=radical)
 
 ---
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=farrelauliairfealdo)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=farrelauliairfealdo29)
 
 </details>
