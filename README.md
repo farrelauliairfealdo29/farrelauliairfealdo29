@@ -8,6 +8,8 @@
 - 👨🏻‍🦱 19 Years Old
 - 🇮🇩 Currently Living In Indonesia
 
+---
+
 ### :rocket: Socials :
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/farelelite) 
 [![Instagram](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+6287793871423?text=hallo%20bang)
@@ -16,9 +18,13 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@farrel.aulia.irfealdo)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Tenka-MD) 
 
+---
+
 ### :rocket: Donate Me :
 
 - [`Qris`](https://i.ibb.co.com/DYDy06c/IMG-20240703-WA0021.jpg)
+
+---
 
 ### :rocket: My Stats :
 <p align="center"><a href="https://github.com/farrelauliairfealdo29/followers"><img title="Followers" src="https://img.shields.io/github/followers/farrelauliairfealdo29?color=red&style=flat-square"></a></p>
