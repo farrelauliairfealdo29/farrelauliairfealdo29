@@ -1,7 +1,6 @@
 ### :rocket: About Me :
-
 <p align="center">
-  <img src="https://i.ibb.co.com/NtBxrm3/3f7a1f1beaa402b09bb3cdcfd4545a3e.jpg"/>
+<img src="https://i.ibb.co.com/NtBxrm3/3f7a1f1beaa402b09bb3cdcfd4545a3e.jpg"/>
 </p>
 
 - 👋🏻 Hi, I’m Farrel Aulia Irfealdo
@@ -39,6 +38,6 @@
 <details>
 <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=farrelauliairfealdo29)
+![](https://github-profile-trophy.vercel.app/?username=farrelauliairfealdo29&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </details>
